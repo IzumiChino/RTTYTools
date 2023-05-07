@@ -1,2 +1,5 @@
-# RTTYEncoder
-RTTY Encoder for HAMs!
+# RTTYTools
+RTTY tools for HAMs!
+Including encoder and decoder.
+Tiny program for desktop devices.
+Programmed in Python
